@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+data/
+checkpoints/
+results/
+*.pth
+.venv/
+external/
+cubicasa5k/
+check_overlay.png
+check_overlay.png
+*.zip
